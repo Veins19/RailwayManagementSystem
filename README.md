@@ -4,15 +4,23 @@ RailwayManagementSystem
     - railway
       - Main.java (or Main.class)
     - railway.db
+      - BookingReportGenerator.java
       - DBConnection.class
       - PDFGenerator.class
     - railway.gui
+      - AddTrainFrame.java
+      - AdminDashboardFrame.java
       - BookingHistoryFrame.java
       - CancelBookingFrame.java
       - CancellationHistoryFrame.java
       - DashboardFrame.java
       - LoginFrame.java
+      - ManageTrainsFrame.java
       - RegisterFrame.java
+      - TrainEditDialog.java
+      - ViewAllBookingsFrame.java
+      - ViewAllTrainsFrame.java
+      - ViewAllUsersFrame.java
   - Test Packages
   - Libraries
     - mysql-connector-j-9.3.0.jar
@@ -22,6 +30,7 @@ RailwayManagementSystem
     - commons-9.1.0.jar
     - slf4j-api-2.0.9.jar
     - slf4j-simple-2.0.9.jar
+    - font-asian-9.1.0.jar
     - JDK 23 (Default)
   - Test Libraries 
 
