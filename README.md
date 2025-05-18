@@ -21,6 +21,7 @@ RailwayManagementSystem
       - ViewAllBookingsFrame.java
       - ViewAllTrainsFrame.java
       - ViewAllUsersFrame.java
+      - ViewReviewsFrame.java
   - Test Packages
   - Libraries
     - mysql-connector-j-9.3.0.jar
